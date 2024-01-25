@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("body");var e=[{name:"alex",premium:!0},{name:"bob",premium:!1},{name:"carol",premium:!0},{name:"vanessa",premium:!0},{name:"judy",premium:!1}].filter((function(e){return e.premium}));console.log(e)})();
